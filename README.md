@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasser</h1>
 <h3 align="center">Programmer 👨‍💻</h3>
 
-<p align="left"> <a href="https://twitter.com/b_za" target="blank"><img src="https://img.shields.io/twitter/follow/b_za?logo=twitter&style=for-the-badge" alt="b_za" /></a> </p>
 
 - 🔭 I’m currently working on **2DTE V2.0**
 
